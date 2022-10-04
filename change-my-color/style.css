@@ -1,9 +1,10 @@
-.container{
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+.container {
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
 }
-button.clicked {
-    background-color: red;
+button.clicked{
+	background-color: red;
 }
+
