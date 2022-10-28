@@ -1,12 +1,13 @@
 # Multi Color Buttons
 
-## Story
-
 ## Deployment
+
 1. <i class="far fa-exclamation"></i> [Change My Color](https://imac1.github.io/multi-color-buttons-javascript/change-my-color/)
 2. <i class="far fa-exclamation"></i>[Change Others Color](https://imac1.github.io/multi-color-buttons-javascript/change-others-color/)
 3. <i class="far fa-exclamation"></i>[Counter](https://imac1.github.io/multi-color-buttons-javascript/counter/)
 4. <i class="far fa-exclamation"></i>[Jumping Button](https://imac1.github.io/multi-color-buttons-javascript/jumping-button/)
+
+## Story
 
 
 Everybody knows that scouts collect badges.
